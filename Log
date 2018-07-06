@@ -1,6 +1,9 @@
 Day 1: July 5th, 2018
-Today's Progress: I've moved from 75% to 85% done with Codecademy's introductory Python course. I finished up sections on list/dictionary manipulation and also bitwise operations. I'm now a bit over halfway through the Classes section, which is a welcome step up in complexity. I should be able to finish this course within the week, maybe tomorrow if I work at it.
-Thoughts: I'm finally in the Classes segment of a coding course, so you know I'm getting up there. One particularly interesting section of code they had me write was this bitwise operation method:
+Today's Progress: I've moved from 75% to 85% done with Codecademy's introductory Python course. I finished up sections on
+list/dictionary manipulation and also bitwise operations. I'm now a bit over halfway through the Classes section, which is a
+welcome step up in complexity. I should be able to finish this course within the week, maybe tomorrow if I work at it.
+Thoughts: I'm finally in the Classes segment of a coding course, so you know I'm getting up there. One particularly
+interesting section of code they had me write was this bitwise operation method:
 
 # This method flips a specified bit in a given number.
 def flip_bit(number, n): 
