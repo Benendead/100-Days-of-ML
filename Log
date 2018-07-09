@@ -11,7 +11,7 @@ def flip_bit(number, n):
   result = mask ^ number 
   return bin(result)
   
-Day 2: July 6, 2018 (1 hour extra so far)
+Day 2: July 6th, 2018 (1 hour extra so far)
 Today's Progress: I finished the Codecademy Python course this morning and then spent the rest of that first hour beginning
 a linear algebra book. Tonight, in a second hour of work, I began reading Learning From Data before realizing that a more 
 rigorous background in linear algebra is needed, and so I've now began the UTAustinX Linear Algebra - Foundations to 
@@ -20,9 +20,15 @@ can comprehend Learning From Data. Added note: I'm on 0.2.4 of the edX course, a
 Thoughts: It's frusturating to constantly need a more robust background in whatever math area is next, but I hope that by 
 cracking down and working hard I can truly gain understanding of these fundamentals so that my ML endeavors are a breeze.
 
-Day 3: July 7, 2018 (1 cumulative hour extra)
+Day 3: July 7th, 2018 (1 cumulative hour extra)
 Today's Progress: Downloaded and activated MATLAB 2018 using my school's license. Took quite a long time to download, so
 really only accomplished that, installing XCode (for C compiling), and moving to 0.3.3 in the edX linear algebra (LA from here
 on out) course.
 Thoughts: Hopeful that I can get in some actual learning progress tomorrow, as opposed to figuring out licenses and just
 downloading applications.
+
+Day 4: July 8th, 2018 (1 cumulative hour extra)
+Today's Progress: Set up Mathworks Online for the edX course, finished up through 1.2.2 of the course. So far have taken 
+almost a page of notes; I'm now on 1.3.1 for tomorrow.
+Thoughts: Glad to start learning some notation. The course seems well presented and is clear about the notation; I've already
+learned a few things that I hadn't previously encountered in multivariable calculus.
