@@ -32,3 +32,9 @@ Today's Progress: Set up Mathworks Online for the edX course, finished up throug
 almost a page of notes; I'm now on 1.3.1 for tomorrow.
 Thoughts: Glad to start learning some notation. The course seems well presented and is clear about the notation; I've already
 learned a few things that I hadn't previously encountered in multivariable calculus.
+
+Day 5: July 9th, 2018 (1 cumulative hour extra)
+Today's Progress: Moved from edX 1.3.1 to halfway through 1.4.1. I learned basic vector operations, some proof writing skills,
+and the intuition for calculating the cost of these simple operations in terms of flops and memops.
+Thoughts: About time that I get to do some math/proofs with this course. The flops/memops part reminds me of Big-O notation,
+which we touched on in AP Comp Sci, although I'm sure this will evolve into a more rigorous part of the course eventually.
