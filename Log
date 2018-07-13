@@ -41,10 +41,18 @@ which we touched on in AP Comp Sci, although I'm sure this will evolve into a mo
 For the sake of honesty, these hours are getting more difficult as I have busier and busier days and need to push these back
 late into the night, but I hope that I can do this earlier in the day in the coming week as to avoid dreading this learning.
 
-Day 6 and 7: July 11th, 2018 (2 cumulative hours extra)
+Days 6 and 7: July 11th, 2018 (2 cumulative hours extra)
 Today's Progress: Yesterday, I watched one of Daniel Shiffman's videos on perceptrons. I then attempted to follow along with
 his code in Processing, but my laptop couldn't handle the app for whatever reason. Today, I installed Jupyter Notebooks and
 developed a perceptron model as my first Python project. It's near completion and I have a ton of ideas for what experiments
 to run using it. I did also do at least an hour extra of work today working on this perceptron project.
 Thoughts: Python is definitely the way to go, especially when my laptop only has 4GB of RAM. I'm excited to polish up my 
 perceptron model and publish it to Github, although I'm certain that there's a lot I could improve on it.
+
+Day 8: July 12th, 2018 (2 cumulative hours extra)
+Today's Progress: I added a test method and visualization to the Perceptron project, created more clear training methods,
+given the user the option to separate their data into training and test data, and I've begun varying the example number and
+allowed training steps to attempt to check that the model can make errors and isn't cheating in some way. I imagine it'll be
+ready to release for proofreading sometime tomorrow.
+Thoughts: I'd like to make sure my code is crystal clear before I release it and there're glaring holes in my explanations or
+code documentation. I should probably learn proper Python documentation formatting.
