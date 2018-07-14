@@ -56,3 +56,10 @@ allowed training steps to attempt to check that the model can make errors and is
 ready to release for proofreading sometime tomorrow.
 Thoughts: I'd like to make sure my code is crystal clear before I release it and there're glaring holes in my explanations or
 code documentation. I should probably learn proper Python documentation formatting.
+
+Day 9: July 13th, 2018 (2 cumulative hours extra)
+Today's Progress: Studied Python documentation best practices and then went through my perceptron project and reformatted
+all of the class/method comments to proper form. Want to proofread through one more time before publishing.
+Thoughts: I'm feeling pretty good about my project now that it's well documented. It creates a sense of legitimacy in
+knowing that my code's a lot closer to professional now. Might want to pursue another Python course to round out my 
+knowledge in areas of unknown deficiencies.
