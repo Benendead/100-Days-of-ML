@@ -85,3 +85,12 @@ I'm building a fair intuition into the network as a whole.
 Thoughts: I should probably buckle down and commit to a beginning-to-end ML book if I'm going to be studying the hard-hitters
 anyways. Might crack open my Deep Learning (Goodfellow) book today, try to move through more of the math in the beginning.
 Also: I studied another hour, finishing up the ConvNet article and beginning one on using LSTMs/RNNs to compose music.
+
+Days 14 and 15: July 19th, 2018 (1.5 cumulative hours extra)
+Yesterday: Missed a day, as I was ironically up so late the night before that I'd completed that extra hour fully in this day.
+Today's Progress: I spent a half hour watching and taking notes on two carykh videos, noting his sources and where I can learn
+more about his hyperGAN and CNN shenanigans. He makes concepts lucid but doesn't go much in depth, unfortunately. Tonight I
+also spent another hour continuing through Daniel Johnson's RNN/LSTM composition project, which got really dense and hence
+took me a while to slog through. I believe I can finish the original article with another hour of study.
+Thoughts: I should go back and proofread through my perceptron class and publish it, only because I feel as though I may
+forget otherwise. It's competent, surely.
