@@ -99,3 +99,9 @@ Day 16: July 20th, 2018 (1.5 cumulative hours extra)
 Today's Progress: Spent the hour debugging, proofreading, and testing the perceptron project. Then released it on Github.
 Thoughts: Given that my one completed project was based on a video by Daniel Shiffman, I think that continuing with his
 resources for inspiration/learning might be a wise choice.
+
+Day 17: July 21st, 2018 (1.5 cumulative hours extra)
+Today's Progress: Watched through Daniel Shiffman's second video on his perceptron model, where he refactored his code and
+also added a visulaization of the perceptron's current guess of the line. I implemented these changes into my project as well.
+Thoughts: Daniel Shiffman's videos are indeed both educational and motivating, I'll keep going through them and then might
+start through Siraj's. Good progress and my project is on Github still check it out
