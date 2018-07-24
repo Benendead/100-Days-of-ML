@@ -102,6 +102,16 @@ resources for inspiration/learning might be a wise choice.
 
 Day 17: July 21st, 2018 (1.5 cumulative hours extra)
 Today's Progress: Watched through Daniel Shiffman's second video on his perceptron model, where he refactored his code and
-also added a visulaization of the perceptron's current guess of the line. I implemented these changes into my project as well.
+also added a visualization of the perceptron's current guess of the line. I implemented these changes into my project as well.
 Thoughts: Daniel Shiffman's videos are indeed both educational and motivating, I'll keep going through them and then might
-start through Siraj's. Good progress and my project is on Github still check it out
+start through Siraj's. Good progress and my project is on Github still check it out.
+
+Days 18 and 19: July 23rd, 2018 (1.5 cumulative hours extra)
+Yesterday's Progress: Studied another two Daniel Shiffman videos before reaching linear algebra that deserves more dedication,
+although perhaps that's my problem of not progressing until every foundation is completely robust. Then spent 20min (still
+part of the hour) taking notes on the Deep Learning book by Goodfellow, still in the math section.
+Today's Progress: Studied through most of the first unit of a Microsoft edX course called "Essential Math for Machine 
+Learning: Python Edition." It's quite basic so far but finishing all of this would (in my mind) legitimize starting other
+courses without worrying about all of the math I'm still missing.
+Thoughts: Maybe five more days of this Microsoft course and it'll be done at this rate; of course I expect it to pick up
+difficulty but we'll see. I also need some pandas and matplotlib literacy work, as they're currently incomprehensible.
