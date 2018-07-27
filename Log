@@ -124,3 +124,21 @@ as directional derivatives today.
 Thoughts: Yes, multivariable is only tangentially related to ML, but passing this test is probably the single most effective
 course of action I can pursue in order to accelerate my ML studies in college and beyond. I do plan to finish the other math
 edX course as well, simply because it seems both quick and relatively broad in content and hence learning.
+
+Day 22: July 26th, 2018 (1.5 cumulative hours extra)
+Today's Progress: I spent half of my hour organizing new sources and then reading an article on the best ways to begin
+reading ML research papers. I then finished the first module of the edX course on math for ML, which was easy yet satisfying.
+Thoughts: The edX course only gets more difficult from here, so hopefully I can continue along at a similarly quick pace
+while still understanding everything as well as I have so far. Still motivated to learn in a lot of ways and I think putting
+together my planned pathway forward would be motivational and useful:
+
+    PATH FORWARD
+      1 - Finish "Essential Math for Machine Learning: Python Edition" edX course.
+      2 - Complete Daniel Shiffman's videos on Neural Networks.
+        2.5 - Code his examples in Python, studying up on numpy, matplotlib, or pandas if necessary.
+      3 - Read through the Neural Networks/Deep Learning book online.
+      4 - Read a full list of groundbreaking/essential ML research articles.
+        4.5 - Attempt to recreate important algorithms and replicate the papers' results.
+      5 - Study and synthesize existing compositional ML works into my own original generative music network.
+
+    Bonus: Continue through Deep Learning textbook, continue to study Multivariable Calculus.
