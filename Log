@@ -197,3 +197,11 @@ algorithm, and that's kind of what I'm trying to still learn.
 Thoughts: It's rewarding and yet relaxing to read a research paper that was once pivotal for its time and fully comprehend
 almost every single sentence on the first or second read. I'd like to pursue a few tangential questions the paper brings up
 to me, but beyond that I think recursive research of sources is just asking for trouble.
+
+Day 32: August 5th, 2018 (5.5 cumulative hours extra, multivariable to this point totals 8.5 hours)
+Today's Progress: Finished reading Yann LeCun's (et. al) paper on handwritten digit recognition and then worked on following
+up on two questions I still had from the paper: How does the backpropagation work? Are there different types? This led me to
+a 2002 paper regarding multiple backpropagation techniques, as well as a 1988 "Theoretical Framework for Backprop" which LeCun
+developed. Will continue through the BP types paper tomorrow.
+Thoughts: After stumbling between a few possible continuation sources, I think the two additional I've selected should allow
+me to round out my knowledge and understanding of the first true source of the 2012 ImageNet paper. Progress is continuing.
