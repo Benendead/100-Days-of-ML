@@ -211,3 +211,10 @@ Today's Progress: Continuing through the important sources of LeCun's paper led 
 various types of backpropagation. I think there may be some errors in the formatting of the paper's formulas, but after 16
 years I think the authors either already know or don't care. Tweeted it to Siraj, maybe it'll get an answer or shoutout.
 Thoughts: Confusion, broadly, as I'd love to be right here but also fear being wrong. That's learning.
+
+Day 34: August 7th, 2018 (6 cumulative hours extra, multivariable to this point totals 9 hours)
+Today's Progress: Spent the hour struggling with tangents of the first source on the Deep Dive and realized that conjugate
+gradients are a bit above my current mathematical understanding. I decided to move on to the second source on Random Forests
+and avoid beating my head against the roadblocks with the first source any longer.
+Thoughts: I can definitely see myself losing sight of my goals as certain concepts are just above my head and there doesn't
+seem to be a rigorous yet clear source to learn what I'll need. Daniel Shiffman comes to mind as an antidote?
